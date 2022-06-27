@@ -1,3 +1,3 @@
-## Website Under Construction 
+## Deployed to Heroku
 
-### Currently working on payment gateway using stripe and placing an order 
+### https://brains-kart-shopping.herokuapp.com/
